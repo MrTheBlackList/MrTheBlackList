@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @MrTheBlackList!
+# 👋 Hi, I'm @Mr.TheBlackList!
 
 ### About Me
 - 👀 **Interests:** Exploring innovative technologies, AI development, open-source projects, and digital transformation.
