@@ -27,6 +27,3 @@ I actively participate in certification training at various institutions and hav
 ### Connect with Me
 Whether you're looking to collaborate on a groundbreaking project or simply want to exchange ideas about the latest tech trends, I'd love to hear from you. Feel free to reach out anytime!
 
-- 📫 **How to Reach Me:** 
-  - Email: mrtheblacklist@gmail.com
-  
